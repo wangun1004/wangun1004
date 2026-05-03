@@ -1,0 +1,32 @@
+# YouTube API
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.1.1
+google-auth-oauthlib>=1.1.0
+
+# AI / LLM
+anthropic>=0.25.0
+openai>=1.30.0
+
+# TTS
+gTTS>=2.5.0
+elevenlabs>=1.0.0
+
+# Image Generation
+requests>=2.31.0
+Pillow>=10.0.0
+
+# Video Editing
+moviepy>=1.0.3
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.9
+
+
+# Audio Processing
+pydub>=0.25.1
+
+# Utilities
+python-dotenv>=1.0.0
+rich>=13.7.0
+click>=8.1.7
+tqdm>=4.66.0
+tenacity>=8.2.3
